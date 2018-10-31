@@ -1,0 +1,24 @@
+{
+  "name": "www.nine00.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-inline": "^0.1.3",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+  },
+  "devDependencies": {
+
+  }
+}
